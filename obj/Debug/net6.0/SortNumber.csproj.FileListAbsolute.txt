@@ -1,0 +1,15 @@
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\bin\Debug\net6.0\SortNumber.exe
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\bin\Debug\net6.0\SortNumber.deps.json
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\bin\Debug\net6.0\SortNumber.runtimeconfig.json
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\bin\Debug\net6.0\SortNumber.dll
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\bin\Debug\net6.0\SortNumber.pdb
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\obj\Debug\net6.0\SortNumber.csproj.AssemblyReference.cache
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\obj\Debug\net6.0\SortNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\obj\Debug\net6.0\SortNumber.AssemblyInfoInputs.cache
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\obj\Debug\net6.0\SortNumber.AssemblyInfo.cs
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\obj\Debug\net6.0\SortNumber.csproj.CoreCompileInputs.cache
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\obj\Debug\net6.0\SortNumber.dll
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\obj\Debug\net6.0\refint\SortNumber.dll
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\obj\Debug\net6.0\SortNumber.pdb
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\obj\Debug\net6.0\SortNumber.genruntimeconfig.cache
+C:\Users\Peyman\Desktop\work\C#\college\SortNumber\SortNumber\obj\Debug\net6.0\ref\SortNumber.dll
